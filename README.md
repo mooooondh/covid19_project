@@ -36,3 +36,4 @@ html(다운로드 필요): https://github.com/mooooondh/covid19_project/blob/mas
 최종 발표자료
 ----------
 https://github.com/mooooondh/covid19_project/blob/master/Covid-19%20Analysis.pdf
+<img src= "https://user-images.githubusercontent.com/25631105/93977424-6c884800-fdb5-11ea-825f-6e8b6c5f5918.png">
