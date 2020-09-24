@@ -27,8 +27,10 @@ kaggle의 covid-19의 국내 발병/전염 상황 데이터를 이용.
 
 최종 결과물
 ----------
-* folium 지도 맵은 github미리보기에서 지원하지 않습니다. 다운로드해서 봐 주시기 바랍니다.
-
+* folium 지도 맵은 github미리보기에서 지원하지 않습니다. folium 설치가 필요합니다.
+```
+pip install folium
+```
 jupyter lab: https://github.com/mooooondh/covid19_project/blob/master/00_corona_project_final.ipynb
 
 html(다운로드 필요): https://github.com/mooooondh/covid19_project/blob/master/count_map.html
