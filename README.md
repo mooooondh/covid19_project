@@ -3,6 +3,7 @@ Covin-19 Analysis
 목표
 ----------
 kaggle의 covid-19의 국내 발병/전염 상황 데이터를 이용.
+대한민국의 covid-19감염 현황 파악
 (https://www.kaggle.com/kimjihoo/coronavirusdataset)
 1. EDA작업
 2. matplotlib, seaborn, folium 시각화 라이브러리를 이용하여 감염 추세 파악
